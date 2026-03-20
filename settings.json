@@ -2,13 +2,13 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "imgonnacream",
-    "password": "1.21.1",
+    "password": "word",
     "type": "offline"
   },
   "server": {
     "ip": "GrummLifeStealSMP.aternos.me",
     "port": 24074,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
